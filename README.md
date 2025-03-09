@@ -1,3 +1,3 @@
 # WordPress customize
 
-test
+6.7.2
